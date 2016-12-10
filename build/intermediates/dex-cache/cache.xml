@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\DELL\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="E:\Documents\MyProject\AndroidStudioProjects\lifecircle_client\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-0b96b006a29fa5dd90296eed52692438a2640d16.jar" />
+    </item>
+    <item
+        jar="E:\Documents\MyProject\AndroidStudioProjects\lifecircle_client\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="E:\Documents\MyProject\AndroidStudioProjects\lifecircle_client\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-0c508a26982c62cecea824680ec2a3c8bce014ea.jar" />
+    </item>
+    <item
+        jar="E:\Documents\MyProject\AndroidStudioProjects\lifecircle_client\app\src\main\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="E:\Documents\MyProject\AndroidStudioProjects\lifecircle_client\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-857fc4a493670a13379919540a92bfde4b13c3de.jar" />
+    </item>
+    <item
+        jar="E:\Documents\MyProject\AndroidStudioProjects\lifecircle_client\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="E:\Documents\MyProject\AndroidStudioProjects\lifecircle_client\app\build\intermediates\pre-dexed\debug\classes-28544596335ee404a6e9069b7e99e4ad18bb3687.jar" />
+    </item>
+    <item
+        jar="E:\Documents\MyProject\AndroidStudioProjects\lifecircle_client\app\src\main\libs\xUtils-2.6.14.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f10c51f3e0732fdeefe6e104279a58e275879b6c">
+        <dex dex="E:\Documents\MyProject\AndroidStudioProjects\lifecircle_client\app\build\intermediates\pre-dexed\debug\xUtils-2.6.14-02c7d8e914d786509c172b9eb9252a7f299b65fb.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,35 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.lifecircle.UI.MainActivity" >
+
+    <item
+        android:id="@+id/action_search"
+        android:actionViewClass="android.widget.SearchView"
+        android:icon="@drawable/actionbar_search_icon"
+        android:showAsAction="ifRoom|collapseActionView"
+        android:title="@string/action_search"/>
+    <!--加号的菜单
+        <item
+        android:id="@+id/action_plus"
+        android:actionProviderClass="com.example.lifecircle.UI.PlusActionProvider"
+        android:icon="@drawable/actionbar_add_icon"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_plus"/>-->
+    <item
+        android:id="@+id/action_add_friend"
+        android:icon="@drawable/menu_add_friend"
+        android:title="添加好友"/>
+    <item
+        android:id="@+id/action_publish"
+        android:icon="@drawable/menu_publish"
+        android:title="发布任务"/>
+    <item
+        android:id="@+id/action_add_lifecircle"
+        android:icon="@drawable/menu_add_lifecircle"
+        android:title="加入生活圈"/>
+    <item
+        android:id="@+id/action_create_lifecircle"
+        android:icon="@drawable/create_lifecircle"
+        android:title="创建生活圈"/>
+
+</menu>

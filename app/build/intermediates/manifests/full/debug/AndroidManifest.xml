@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.lifecircle"
+    android:versionCode="1"
+    android:versionName="UI designing" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:logo="@drawable/logo"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.lifecircle.UI.MainActivity"
+            android:icon="@drawable/logo"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <activity
+            android:name="com.example.lifecircle.UI.PersonInfoActivity"
+            android:label="个人信息" >
+        </activity>
+        <activity
+            android:name="com.example.lifecircle.UI.LoginActivity"
+            android:icon="@drawable/logo"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.lifecircle.UI.InLifecircleActivity"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <activity
+            android:name="com.example.lifecircle.UI.AddFriendActivity"
+            android:label="添加好友"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <activity
+            android:name="com.example.lifecircle.UI.AddLifecircleActivity"
+            android:label="加入生活圈"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <activity
+            android:name="com.example.lifecircle.UI.NewFriendActivity"
+            android:label="好友信息" >
+        </activity>
+        <activity
+            android:name="com.example.lifecircle.UI.CreateLifecircleActivity"
+            android:label="@string/title_activity_create_lifecircle"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+        </activity>
+        <activity
+            android:name="com.example.lifecircle.UI.RegisterActivity"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name="com.example.lifecircle.UI.LifecircleInfoActivity"
+            android:label="@string/title_activity_lifecircle_info" >
+        </activity>
+        <activity
+            android:name="com.example.lifecircle.UI.UploadTestActivity"
+            android:label="@string/title_activity_upload_test" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,36 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lifecircle.UI.AddFriendActivity">
+
+    <LinearLayout
+        android:layout_width="fill_parent" android:orientation="vertical"
+        android:layout_height="fill_parent">
+        <EditText
+            android:id="@+id/editText_friend_count"
+            android:gravity="center"
+            android:text="请输入好友账号"
+            android:textColor="@color/gray"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionSearch"
+            android:singleLine="true"
+            android:onClick="onFindFriendEidtClick"/>
+        <TextView
+            android:text="你可能认识："
+            android:textSize="@dimen/text_size_standard"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ListView
+            android:id="@+id/listview_friend_recommend"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_person.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\fragment_person.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_reward.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\alert_dialog_reward.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_lifecircle_info.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\activity_lifecircle_info.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_contact.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\item_contact.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_member.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\item_member.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_friend.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\item_friend.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_contact.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\fragment_contact.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_in_lifecircle.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\activity_in_lifecircle.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_new_friend.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\activity_new_friend.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_person_info.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\activity_person_info.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_task.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\item_task.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_friend.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\activity_add_friend.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_lifecircle.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\item_lifecircle.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_lifecircle.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\activity_add_lifecircle.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_create_lifecircle.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\activity_create_lifecircle.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_task.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\fragment_task.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_lifecircle.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\layout\\fragment_lifecircle.xml"
+    }
+]

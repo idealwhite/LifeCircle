@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="60dp"
+    android:gravity="center_vertical"
+    android:layout_marginBottom="5dp" android:descendantFocusability="blocksDescendants">
+    <ImageView
+        android:id="@+id/icon_lifecircle"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:paddingLeft="5dp"
+        android:src="@drawable/circle" />
+    <TextView
+        android:id="@+id/text_lifecircle_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/icon_lifecircle"
+        android:padding="7dp"
+        android:text="家庭"
+        android:textColor="#000" />
+    <TextView
+        android:id="@+id/text_lifecircle_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:padding="7dp"
+        android:text="17:35"
+        android:textColor="#666" />
+    <TextView
+        android:id="@+id/text_lifecircle_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/icon_lifecircle"
+        android:layout_alignParentBottom="true"
+        android:padding="7dp"
+        android:ellipsize="end"
+        android:text="给我带一份黄焖鸡...."
+        android:textColor="#666" />
+</RelativeLayout>

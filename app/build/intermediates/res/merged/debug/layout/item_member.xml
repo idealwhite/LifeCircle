@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:gravity="center_vertical" android:background="#FFF">
+    <ImageView
+        android:id="@+id/icon_member"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dp"
+        android:src="@drawable/photo" />
+    <LinearLayout
+        android:layout_width="wrap_content" android:orientation="vertical"
+        android:layout_height="wrap_content" android:layout_toRightOf="@id/icon_member">
+        <TextView
+            android:id="@+id/text_member_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="20dp"
+            android:text="王领导"
+            android:textSize="23sp"
+            android:textColor="#000" />
+        <LinearLayout
+            android:layout_width="wrap_content" android:orientation="horizontal"
+            android:layout_height="wrap_content" android:layout_marginBottom="5dp"
+            android:layout_marginTop="10dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:text="生活圈号："
+                android:textSize="15sp" />
+            <TextView
+                android:id="@+id/text_member_account"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="wang"
+                android:textColor="@color/green_dark"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/text_member_credit"
+        android:text="credit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:textSize="@dimen/text_size_standard"
+        android:textColor="@color/green_dark"
+        android:layout_toLeftOf="@+id/text_member_reward"/>
+    <TextView
+        android:background="@color/gold"
+        android:id="@+id/text_member_reward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:padding="5dp"
+        android:text="20"
+        android:textSize="20sp"
+        android:textColor="#000" />
+</RelativeLayout>

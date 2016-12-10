@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_item.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable\\preference_item.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_first_normal.9.png",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable\\ic_preference_first_normal.9.png"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_last_item.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable\\preference_last_item.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_last_pressed.9.png",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable\\ic_preference_last_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_tab.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable\\background_tab.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_single_normal.9.png",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable\\ic_preference_single_normal.9.png"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\actionbar_bg_selector.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable\\actionbar_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_normal.9.png",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable\\ic_preference_normal.9.png"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_single_pressed.9.png",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable\\ic_preference_single_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_last_normal.9.png",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable\\ic_preference_last_normal.9.png"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_pressed.9.png",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable\\ic_preference_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_first_item.xml",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable\\preference_first_item.xml"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_preference_first_pressed.9.png",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable\\ic_preference_first_pressed.9.png"
+    }
+]

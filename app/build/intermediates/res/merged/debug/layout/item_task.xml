@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="110dp"
+    android:gravity="center_vertical"
+    android:layout_marginBottom="5dp" android:background="#FFF"
+    android:paddingBottom="5dp" android:descendantFocusability="blocksDescendants">
+    <ImageView
+        android:id="@+id/icon_person"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:paddingLeft="5dp"
+        android:src="@drawable/photo_small" />
+
+    <TextView
+        android:id="@+id/text_person"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/icon_person"
+        android:paddingLeft="7dp"
+        android:padding="7dp"
+        android:text="小张-家庭"
+        android:textColor="#080" />
+    <TextView
+        android:id="@+id/text_task_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:paddingRight="5dp"
+        android:padding="7dp"
+        android:text="昨天 晚上"
+        android:textColor="#666" />
+    <TextView
+        android:id="@+id/text_task_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="20sp"
+        android:text="帮我买一卷纸"
+        android:textColor="#666" />
+    <TextView
+        android:background="@color/gold"
+        android:id="@+id/text_task_reward"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginRight="10dp"
+        android:text="20"
+        android:textSize="20sp"
+        android:textColor="#000" />
+</RelativeLayout>

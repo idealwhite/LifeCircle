@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lifecircle.UI.AddLifecircleActivity">
+    <LinearLayout
+        android:layout_width="fill_parent" android:orientation="vertical"
+        android:layout_height="fill_parent">
+        <EditText
+            android:id="@+id/editText_lifecircle_count"
+            android:gravity="center"
+            android:text="请输入生活圈号码"
+            android:textColor="@color/gray"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:inputType="number"
+            android:padding="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:imeOptions="actionSearch"
+            android:onClick="onFindLifecircleEditClick"/>
+        <TextView
+            android:text="你可能想找："
+            android:textSize="@dimen/text_size_standard"
+            android:layout_margin="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ListView
+            android:id="@+id/listview_lifecircle_recommend"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+
+</RelativeLayout>

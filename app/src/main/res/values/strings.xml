@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">生活圈</string>
+    <string name="action_search">搜索</string>
+    <string name="action_plus">功能</string>
+    <string name="action_album">我的相册</string>
+    <string name="action_collection">我的收藏</string>
+    <string name="action_card">我的银行卡</string>
+    <string name="action_settings">设置</string>
+    <string name="action_feed">意见反馈</string>
+    <string name="plus_group_chat">发起群聊</string>
+    <string name="plus_add_friend">添加朋友</string>
+    <string name="plus_video_chat">视频聊天</string>
+    <string name="plus_scan">扫一扫</string>
+    <string name="plus_take_photo">拍照分享</string>
+    <string name="title_activity_person_info">PersonInfoActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_in_lifecircle">InLifecircleActivity</string>
+    <string name="title_activity_lifecircle_info">生活圈信息</string>
+    <string name="title_activity_add_friend">AddFriendActivity</string>
+    <string name="title_activity_add_lifecircle">AddLifecircleActivity</string>
+    <string name="title_activity_new_friend">NewFriendActivity</string>
+    <string name="title_activity_create_lifecircle">创建生活圈</string>
+    <string name="title_activity_register">用户注册</string>
+    <string name="title_activity_upload_test">UploadTestActivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
