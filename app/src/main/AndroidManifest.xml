@@ -72,10 +72,6 @@
             android:name=".UI.LifecircleInfoActivity"
             android:label="@string/title_activity_lifecircle_info" >
         </activity>
-        <activity
-            android:name=".UI.UploadTestActivity"
-            android:label="@string/title_activity_upload_test" >
-        </activity>
     </application>
 
 </manifest>
