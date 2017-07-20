@@ -1,0 +1,6 @@
+.svn/*
+.git/*
+.idea/*
+build/*
+.gradle/*
+*.properties

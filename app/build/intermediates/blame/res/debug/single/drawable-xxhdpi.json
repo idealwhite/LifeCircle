@@ -72,12 +72,12 @@
         "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable-xxhdpi\\uncontact.png"
     },
     {
-        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\setting.png",
-        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable-xxhdpi\\setting.png"
-    },
-    {
         "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\actionbar_search_icon.png",
         "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable-xxhdpi\\actionbar_search_icon.png"
+    },
+    {
+        "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\setting.png",
+        "source": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\src\\main\\res\\drawable-xxhdpi\\setting.png"
     },
     {
         "merged": "E:\\Documents\\MyProject\\AndroidStudioProjects\\lifecircle_client\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\heart.png",
